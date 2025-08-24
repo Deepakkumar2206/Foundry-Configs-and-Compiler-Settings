@@ -1,0 +1,5 @@
+line_length = 100
+tab_width = 4
+quote_style = "double"
+bracket_spacing = true
+wrap_comments = true
